@@ -1,0 +1,556 @@
+@charset "utf-8";
+
+/* navigasi */
+nav{
+    width: 1264px;
+    height: 80px;
+    position: relative;
+    
+}
+.contactus {
+    left: 1615px;
+    top: 25px;
+    position: absolute;
+    color: black;
+    font-size: 24px;
+    font-family: Montserrat;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+.ed {
+    left: 1255px;
+    top: 30px;
+    position: absolute;
+    color: black;
+    font-size: 24px;
+    font-family: Montserrat;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+.portofolio {
+    left: 1436px;
+    top: 30px;
+    color: black;
+    font-size: 24px;
+    font-family: Montserrat;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+.logo{
+    left: 177px; 
+    top: 11px; 
+    position: absolute; 
+    color: black; 
+    font-size: 64px; 
+    font-family: Merriweather; 
+    font-weight: 400; 
+    word-wrap: break-word;
+}
+
+/* profil */
+.bg1gr {
+    width: 1925px;
+    height: 405px;
+    left: -15px;
+    top: 361px;
+    position: absolute;
+    background: #E3E4E4;
+}
+.profil{
+    width: 1440px; 
+    height: 917px; 
+    position: relative;
+}
+.textpf{
+    width: 673px; 
+    height: 264px;
+    position: relative;
+}
+.isipf {
+    width: 688px;
+    height: 222px;
+    left: 144px;
+    top: 272px;
+    position: absolute;
+    font-size: 64px;
+    font-family: Merriweather;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+.welcome{
+    width: 192px; 
+    height: 47px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute;
+}
+.rec1 {
+    width: 221px;
+    height: 65px;
+    left: 147px;
+    top: 179px;
+    position: absolute;
+    background: #E4E3E3;
+}
+.welc{
+    left: 171px;
+    top: 182px;
+    position: absolute;
+    color: black;
+    font-size: 24px;
+    font-family: Montserrat;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+.pf {
+    width: 574px;
+    height: 681px;
+    left: 1133px;
+    top: 12px;
+    position: absolute;
+}
+
+/* profil */
+.portofolio{
+    width: 1440px; 
+    height: 694.98px; 
+    position: relative;
+}
+.bg2gr {
+    width: 1589px;
+    height: 642px;
+    left: 165px;
+    top: 938px;
+    position: absolute;
+    background: #D9D9D9;
+}
+.foto1 {
+    width: 390.65px;
+    height: 276.4px;
+    top: 972px;
+    left: 1220px;
+    position: absolute;
+}
+
+.foto2 {
+    width: 408.57px;
+    height: 292.4px;
+    left: 922.27px;
+    top: 1265.43px;
+    position: absolute;
+}
+.foto3 {
+    width: 300px;
+    height: 300px;
+    left: 1347.29px;
+    top: 1265px;
+    position: absolute;
+}
+.foto4 {
+    width: 411.57px;
+    height: 302.4px;
+    left: 494.28999999999996px;
+    top: 1266px;
+    position: absolute;
+}
+
+.foto5 {
+    width: 276.4px;
+    height: 384.2px;
+    left: 204px;
+    top: 1263px;
+    position: absolute;
+}
+.foto6 {
+    width: 410.92px;
+    height: 291.15px;
+    left: 495.45000000000005px;
+    top: 955.63px;
+    position: absolute;
+}
+
+.foto7 {
+    width: 276px;
+    height: 391px;
+    left: 923.13px;
+    top: 857px;
+    position: absolute;
+}
+
+.foto8 {
+    width: 300px;
+    height: 300px;
+    left: 180.13px;
+    top: 947px;
+    position: absolute;
+}
+.textpt{
+    left: 175px; 
+    top: 840px; 
+    position: absolute; 
+    color: black; 
+    font-size: 40px; 
+    font-family: Merriweather; 
+    font-weight: 700; 
+    word-wrap: break-word
+}
+.h1{
+    color: black; 
+    font-size: 37px; 
+    font-family: Montserrat; 
+    font-weight: 500; 
+    word-wrap: break-word
+}
+.h2{
+    color: black; 
+    font-size: 18px; 
+    font-family: Poppins; 
+    font-weight: 300; 
+    word-wrap: break-word
+}
+
+
+/* education */
+.Education {
+    left: 799px;
+    top: 1682px;
+    position: absolute;
+    color: black;
+    font-size: 40px;
+    font-family: Merriweather;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+.isismp{
+    left: 485px;
+    top: 2076px; 
+    position: absolute; 
+    color: black; 
+    font-size: 16px; 
+    font-family: Poppins; 
+    font-weight: 300; 
+    word-wrap: break-word
+}
+
+.isismk{
+    left: 989px; 
+    top: 2298px; 
+    position: absolute;
+    color: black; 
+    font-size: 16px; 
+    font-family: Poppins;
+    font-weight: 300; 
+    word-wrap: break-word
+}
+
+.headsd {
+    left: 989px;
+    top: 1796px;
+    position: absolute;
+    color: black;
+    font-size: 32px;
+    font-family: Montserrat;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+.headsma{
+    left: 989px; 
+    top: 2248px; 
+    position: absolute; 
+    color: black; 
+    font-size: 32px; 
+    font-family: Montserrat; 
+    font-weight: 500; 
+    word-wrap: break-word
+}
+.headsmp {
+    left: 485px;
+    top: 2033px;
+    position: absolute;
+    color: black;
+    font-size: 32px;
+    font-family: Montserrat;
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+
+.sd {
+    left: 989px;
+    top: 1842px;
+    position: absolute;
+    color: black;
+    font-size: 16px;
+    font-family: Poppins;
+    font-weight: 300;
+    word-wrap: break-word;
+}
+
+.Rectangle16 {
+    width: 388px;
+    height: 178px;
+    left: 960px;
+    top: 1763px;
+    position: absolute;
+    background: #F6F6F6;
+}
+
+.Line1 {
+    width: 626.03px;
+    height: 0px;
+    left: 929px;
+    top: 1762px;
+    position: absolute;
+    transform: rotate(89.45deg);
+    transform-origin: 0 0;
+    border: 0.5px #000000 solid;
+}
+
+.Rectangle17 {
+    width: 456px;
+    height: 176px;
+    left: 447px;
+    top: 1989px;
+    position: absolute;
+    background: #F6F6F6;
+}
+.Rectangle18 {
+    width: 381px;
+    height: 178px;
+    left: 960px;
+    top: 2210px;
+    position: absolute;
+    background: #F1F1F1;
+}
+
+/* footer */
+.footer{
+    width: 1440px; 
+    height: 408px; 
+    position: relative
+}
+.button {
+    width: 148px;
+    height: 44px;
+    left: 812px;
+    top: 2698px;
+    position: absolute;
+}
+.block{
+    width: 148px; 
+    height: 44px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: #E4E3E3
+}
+.submit{
+    left: 36px; 
+    top: 10px; 
+    position: absolute; 
+    color: #595959; 
+    font-size: 20px; 
+    font-family: Montserrat; 
+    font-weight: 600; 
+    word-wrap: break-word
+}
+.namebox{
+    width: 310px; 
+    height: 60px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute
+}
+.b1{
+    width: 310px; 
+    height: 60px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute;
+    border: 0.50px rgba(255, 255, 255, 0.75) solid
+}
+.name{
+    left: 17px; 
+    top: 18px; 
+    position: absolute; 
+    color: rgba(255, 255, 255, 0.50); 
+    font-size: 20px; 
+    font-family: Montserrat; 
+    font-weight: 500;
+    word-wrap: break-word
+}
+.emailbox{
+    width: 310px; 
+    height: 60px; 
+    left: 331px; 
+    top: 0px; 
+    position: absolute
+}
+.b2{
+    width: 310px; 
+    height: 60px; 
+    left: 0px;
+     top: 0px; 
+     position: absolute; 
+     border: 0.50px rgba(255, 255, 255, 0.75) solid
+}
+.email{
+    left: 19px; 
+    top: 18px; 
+    position: absolute; 
+    color: rgba(255, 255, 255, 0.50); 
+    font-size: 20px; 
+    font-family: Montserrat; 
+    font-weight: 500; 
+    word-wrap: break-word
+}
+.masukan {
+    width: 641px;
+    height: 179px;
+    left: 812px;
+    top: 2436px;
+    position: absolute;
+}
+.messagebox{
+    width: 641px; 
+    height: 96px; 
+    left: 0px; 
+    top: 83px; 
+    position: absolute
+}
+.bg3{
+    width: 641px; 
+    height: 96px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    border: 0.50px rgba(255, 255, 255, 0.75) solid
+}
+.message{
+    left: 17px; 
+    top: 12px; 
+    position: absolute;
+    color: rgba(255, 255, 255, 0.50); 
+    font-size: 20px; 
+    font-family: Montserrat; 
+    font-weight: 500; 
+    word-wrap: break-word
+}
+.socialmedia {
+    width: 634px;
+    height: 287px;
+    left: 392px;
+    top: 2360px;
+    position: absolute;
+}
+.ig{
+    width: 171px;
+    height: 52px; 
+    left: 0px; 
+    top: 162px; 
+    position: absolute
+}
+.ellipse1 {
+    width: 52px;
+    height: 52px;
+    left: 0px;
+    top: 233px;
+    position: absolute;
+    background: white;
+    border-radius: 9999px;
+}
+.iconig{
+    width: 29px; 
+    height: 29px; 
+    left: 12px; 
+    top: 11px; 
+    position: absolute; 
+    background: #595959
+}
+.nickig {
+    left: 61px;
+    top: 249px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-family: Merriweather;
+    font-weight: 700;
+    word-wrap: break-word;
+}
+.wa {
+    width: 252px;
+    height: 52px;
+    left: 0px;
+    top: 321px;
+    position: absolute;
+}
+.ellipse2{
+    width: 52px; 
+    height: 52px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: white; 
+    border-radius: 9999px
+}
+.iconwa{
+    width: 29px; 
+    height: 29px; 
+    left: 12px; 
+    top: 11px; 
+    position: absolute; 
+    background: #595959
+}
+.nowa{
+    left: 61px; 
+    top: 17px; 
+    position: absolute; 
+    color: white; 
+    font-size: 20px; 
+    font-family: Merriweather; 
+    font-weight: 700; 
+    word-wrap: break-word
+}
+.sosmedhead{
+    width: 376px; 
+    height: 178px; 
+    left: 4px; 
+    top: 0px; 
+    position: absolute; 
+    font-size: 40px; 
+    font-family: Merriweather;
+    font-weight: 700; 
+    word-wrap: break-word;
+    color: rgb(0, 0, 0);
+}
+.boxhead{
+    left: 419px; 
+    top: 0px; 
+    position: absolute; 
+    color: white; 
+    font-size: 40px; 
+    font-family: Merriweather; 
+    font-weight: 700; 
+    word-wrap: break-word
+}
+.bg3gr {
+    width: 1925px;
+    height: 579pxs;
+    left: -25px;
+    top: 2259px;
+    position: absolute;
+    background: #595959;
+}
+.b3 {
+    width: 642px;
+    height: 159px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    border: 0.5px rgba(255, 255, 255, 0.75) solid;
+}
+.bhy{
+    color: rgb(255, 255, 255); font-size: 18px; font-family: Poppins; font-weight: 300; word-wrap: break-word
+}
